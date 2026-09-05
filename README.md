@@ -179,8 +179,6 @@ By bridging theoretical inquiry in Science and Technology Studies (STS) with rig
 
 ## Academic Distinctions, Honors & Editorial Service | الجوائز والتقديرات والمشاركات العلمية
 
-- **Published Research**: Author of peer-reviewed papers in high-impact international journals spanning AI, accessibility, and biomedical engineering, including accepted manuscript *"AI-Driven Brain-Computer Interface Motorcycle for Fully Paralyzed Users"*.
-- **Book Co-Authorship**: Contributed as a co-author to a scientific chapter in a globally recognized academic volume.
 - **Editorial Board Member & Peer Reviewer**: Serving on the editorial board of an international scientific journal, actively participating in rigorous scholarly review.
 - **1st Place & Gold Medal**: SOLE2026 (Season 12) — Translational Science Communication Track.
 - **1st Place**: Inter-University Healthcare Hackathon (Fifth Edition) for technology-driven clinical innovations.
