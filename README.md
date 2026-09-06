@@ -1,7 +1,7 @@
 <div align="center">
 
 # Mahmoud Labib | محمود لبيب
-### Applied Researcher & Systems Engineer | باحث تطبيقي ومهندس نظم
+### Scientific & Transdisciplinary Researcher | باحث علمي • متعدد وعابر للتخصصات
 **Human-Computer Interaction (HCI) • Human-Centered Technology (HCT) • Science, Technology, and Society (STS)**  
 **Computer Accessibility & Universal Design • Educational Technology • Multiphysics & Biomedical AI**
 
@@ -31,12 +31,12 @@
 
 ## Research Focus & Profile Summary | البيان البحثي والمهني
 
-I am an applied researcher and systems engineer focusing on **Human-Computer Interaction (HCI)**, **Human-Centered Technology (HCT)**, **Computer Accessibility**, and **Science, Technology, and Society (STS)**.
+I am a scientific and transdisciplinary researcher focusing on **Human-Computer Interaction (HCI)**, **Human-Centered Technology (HCT)**, **Computer Accessibility**, and **Science, Technology, and Society (STS)**.
 
 My work centers on designing real-time perceptual interfaces, multimodal assistive technologies, and multiphysics computational models. I combine computer vision, physiological/neural signal processing (BCI), and robust software engineering to build accessible, practical computing solutions that empower users across diverse physical and cognitive capabilities.
 
 > **الرؤية والتركيز البحثي:**  
-> باحث تطبيقي ومهندس نظم متخصص في **التفاعل بين الإنسان والحاسوب (HCI)**، و**التكنولوجيا المتمحورة حول الإنسان (HCT)**، و**إمكانية الوصول الحاسوبية (Computer Accessibility)**، ودراسات **العلوم والتكنولوجيا والمجتمع (STS)**.  
+> باحث علمي متعدد وعابر للتخصصات متخصص في **التفاعل بين الإنسان والحاسوب (HCI)**، و**التكنولوجيا المتمحورة حول الإنسان (HCT)**، و**إمكانية الوصول الحاسوبية (Computer Accessibility)**، ودراسات **العلوم والتكنولوجيا والمجتمع (STS)**.  
 > ينصب تركيزي على بناء واجهات إدراكية حية، وتقنيات مساعدة متعددة الأنماط، ونماذج محاكاة حسابية متقدمة. أعمل على الجمع بين الرؤية الحاسوبية، ومعالجة الإشارات الحيوية والعصبية (BCI)، وهندسة النظم لبناء حلول تقنية عملية وعادلة تمكن مختلف فئات المجتمع وتزيل الحواجز الرقمية والفيزيائية.
 
 ---
