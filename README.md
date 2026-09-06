@@ -204,19 +204,13 @@ My work centers on designing real-time perceptual interfaces, multimodal assisti
 
 ## Latest Projects & Video Demonstrations | آخر المشاريع والعروض المرئية
 
-<!-- AUTO_UPDATE_BANNER:START -->
-> [!NOTE]
-> **نظام التحديث التلقائي للمستودعات (Automated Synchronization):**  
-> يتم تحديث قائمة المستودعات أدناه دورياً وبشكل تلقائي عبر سير عمل مؤتمت (**GitHub Actions Workflow**) فور إنشاء أو دفع أي تعديل على المستودعات، ليعكس أحدث المشاريع ولغات البرمجة دون أي تدخل يدوي.
-<!-- AUTO_UPDATE_BANNER:END -->
-
 ### Active Repositories | أحدث المشاريع والمستودعات البرمجية
 
 <!-- AUTO_REPOSITORIES_LIST:START -->
-| Project | Description | Tech Stack | Stars | Last Activity |
+| Project | Description | Tech Stack | Stars | Last Update |
 |:---|:---|:---:|:---:|:---:|
-| [**Air-Hockey-Vision**](https://github.com/mahmoudmma667-gif/Air-Hockey-Vision) | Research & engineering codebase | `Python` | ★ 0 | `2026-09-05` |
-| [**flowx-3d**](https://github.com/mahmoudmma667-gif/flowx-3d) | Flowx 3D Next.js application | `TypeScript` | ★ 1 | `2026-09-05` |
+| [**flowx-3d**](https://github.com/mahmoudmma667-gif/flowx-3d) | Contactless 3D spatial computing platform fusing computer vision and WiFi CSI sensing | `TypeScript` | ★ 0 | `2026-09-05` |
+| [**Air-Hockey-Vision**](https://github.com/mahmoudmma667-gif/Air-Hockey-Vision) | Real-time computer vision and markerless hand-tracking game system | `Python` | ★ 0 | `2026-09-05` |
 <!-- AUTO_REPOSITORIES_LIST:END -->
 
 ---
@@ -225,23 +219,35 @@ My work centers on designing real-time perceptual interfaces, multimodal assisti
 
 <div align="center">
 
-#### Project Video 01 — Contactless Spatial & Gesture Interaction
-<video src="https://github.com/mahmoudmma667-gif/mahmoudmma667-gif/raw/main/docs/videos/project_demo_01.mp4" controls width="100%"></video>
+<p align="center">
+  <a href="https://github.com/mahmoudmma667-gif/mahmoudmma667-gif/raw/main/docs/videos/project_demo_01.mp4" target="_blank">
+    <img src="https://github.com/mahmoudmma667-gif/mahmoudmma667-gif/raw/main/docs/images/video_player_01.svg" width="95%" alt="Project Video 01" />
+  </a>
+</p>
 
-<br/><br/>
+<br/>
 
-#### Project Video 02 — High-Frequency Real-Time Vision & Kinematic Tracking
-<video src="https://github.com/mahmoudmma667-gif/mahmoudmma667-gif/raw/main/docs/videos/project_demo_02.mp4" controls width="100%"></video>
+<p align="center">
+  <a href="https://github.com/mahmoudmma667-gif/mahmoudmma667-gif/raw/main/docs/videos/project_demo_02.mp4" target="_blank">
+    <img src="https://github.com/mahmoudmma667-gif/mahmoudmma667-gif/raw/main/docs/images/video_player_02.svg" width="95%" alt="Project Video 02" />
+  </a>
+</p>
 
-<br/><br/>
+<br/>
 
-#### Project Video 03 — Multimodal Assistive Prototype & Sensory Feedback
-<video src="https://github.com/mahmoudmma667-gif/mahmoudmma667-gif/raw/main/docs/videos/project_demo_03.mp4" controls width="100%"></video>
+<p align="center">
+  <a href="https://github.com/mahmoudmma667-gif/mahmoudmma667-gif/raw/main/docs/videos/project_demo_03.mp4" target="_blank">
+    <img src="https://github.com/mahmoudmma667-gif/mahmoudmma667-gif/raw/main/docs/images/video_player_03.svg" width="95%" alt="Project Video 03" />
+  </a>
+</p>
 
-<br/><br/>
+<br/>
 
-#### Project Video 04 — Embedded Sensing & Physical Computing Test
-<video src="https://github.com/mahmoudmma667-gif/mahmoudmma667-gif/raw/main/docs/videos/project_demo_04.mp4" controls width="100%"></video>
+<p align="center">
+  <a href="https://github.com/mahmoudmma667-gif/mahmoudmma667-gif/raw/main/docs/videos/project_demo_04.mp4" target="_blank">
+    <img src="https://github.com/mahmoudmma667-gif/mahmoudmma667-gif/raw/main/docs/images/video_player_04.svg" width="95%" alt="Project Video 04" />
+  </a>
+</p>
 
 </div>
 
