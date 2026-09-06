@@ -213,10 +213,10 @@ My work centers on designing real-time perceptual interfaces, multimodal assisti
 ### Active Repositories | أحدث المشاريع والمستودعات البرمجية
 
 <!-- AUTO_REPOSITORIES_LIST:START -->
-| Project | Description | Tech Stack | Stars | Last Update |
+| Project | Description | Tech Stack | Stars | Last Activity |
 |:---|:---|:---:|:---:|:---:|
-| [**flowx-3d**](https://github.com/mahmoudmma667-gif/flowx-3d) | Contactless 3D spatial computing platform fusing computer vision and WiFi CSI sensing | `TypeScript` | ★ 0 | `2026-09-05` |
-| [**Air-Hockey-Vision**](https://github.com/mahmoudmma667-gif/Air-Hockey-Vision) | Real-time computer vision and markerless hand-tracking game system | `Python` | ★ 0 | `2026-09-05` |
+| [**Air-Hockey-Vision**](https://github.com/mahmoudmma667-gif/Air-Hockey-Vision) | Research & engineering codebase | `Python` | ★ 0 | `2026-09-05` |
+| [**flowx-3d**](https://github.com/mahmoudmma667-gif/flowx-3d) | Flowx 3D Next.js application | `TypeScript` | ★ 1 | `2026-09-05` |
 <!-- AUTO_REPOSITORIES_LIST:END -->
 
 ---
