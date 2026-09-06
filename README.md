@@ -215,7 +215,7 @@ My work centers on designing real-time perceptual interfaces, multimodal assisti
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=mahmoudmma667-gif&theme=slate&hide_border=true&background=0b132b&ring=0284c7&fire=38bdf8&currStreakNum=38bdf8" width="97%" alt="Research Streak" />
+<img src="https://streak-stats.demolab.com/?user=mahmoudmma667-gif&theme=slate&hide_border=true&background=0b132b&ring=0284c7&fire=38bdf8&currStreakNum=38bdf8&sideNums=38bdf8&sideLabels=e2e8f0&dates=94a3b8&currStreakLabel=38bdf8&stroke=1e293b" width="97%" alt="Research Streak" />
 
 </div>
 
