@@ -218,37 +218,34 @@ My work centers on designing real-time perceptual interfaces, multimodal assisti
 
 ### Video Demonstrations & Prototype Tests | العروض المرئية للمشاريع والنماذج التطبيقية
 
+> *"شاهد العروض المرئية الحية للمشاريع والنماذج التطبيقية التفاعلية مباشرة عبر Google Drive بجودة 1080p بمعدل 60 إطاراً في الثانية — اضغط على بطاقة أي مشروع لتشغيل الفيديو فوراً."*
+
 <div align="center">
 
-<p align="center">
-  <a href="https://github.com/mahmoudmma667-gif/mahmoudmma667-gif/raw/main/docs/videos/project_demo_01.mp4" target="_blank">
-    <img src="https://github.com/mahmoudmma667-gif/mahmoudmma667-gif/raw/main/docs/images/video_player_01.svg" width="95%" alt="Project Video 01" />
-  </a>
-</p>
+### 🎸 1. AR Guitar AeroFret: Kinetic — Touchless Spatial Air Guitar Simulator
+[![AR Guitar AeroFret Kinetic Video](docs/images/video_card_01_aerofret_guitar.png)](https://drive.google.com/file/d/1DgHXcSM3Gk2akURZVJK5H97WfAJJyL5D/view?usp=drivesdk)  
+[![Watch on Google Drive](https://img.shields.io/badge/▶_Watch_Full_HD_Video_on_Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1DgHXcSM3Gk2akURZVJK5H97WfAJJyL5D/view?usp=drivesdk)
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repository-AeroFret--Kinetic--AR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahmoudmma667-gif/AeroFret-Kinetic-AR)
 
-<br/>
+<br/><br/>
 
-<p align="center">
-  <a href="https://github.com/mahmoudmma667-gif/mahmoudmma667-gif/raw/main/docs/videos/project_demo_02.mp4" target="_blank">
-    <img src="https://github.com/mahmoudmma667-gif/mahmoudmma667-gif/raw/main/docs/images/video_player_02.svg" width="95%" alt="Project Video 02" />
-  </a>
-</p>
+### 🏓 2. Air Hockey Vision — Real-Time Markerless Hand-Tracking HCI
+[![Air Hockey Vision Video](docs/images/video_card_02_air_hockey.png)](https://drive.google.com/file/d/1nDRNT7a_jCjlvQXmhviAkKbKMkqwMjpc/view?usp=drive_link)  
+[![Watch on Google Drive](https://img.shields.io/badge/▶_Watch_Full_HD_Video_on_Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1nDRNT7a_jCjlvQXmhviAkKbKMkqwMjpc/view?usp=drive_link)
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repository-Air--Hockey--Vision-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahmoudmma667-gif/Air-Hockey-Vision)
 
-<br/>
+<br/><br/>
 
-<p align="center">
-  <a href="https://github.com/mahmoudmma667-gif/mahmoudmma667-gif/raw/main/docs/videos/project_demo_03.mp4" target="_blank">
-    <img src="https://github.com/mahmoudmma667-gif/mahmoudmma667-gif/raw/main/docs/images/video_player_03.svg" width="95%" alt="Project Video 03" />
-  </a>
-</p>
+### 🌐 3. Flowx 3D (v3.3) — Neural Spatial 3D CAD & Air-Sketching Engine
+[![Flowx 3D Video](docs/images/video_card_03_flowx_3d.png)](https://drive.google.com/drive/folders/1kiHqqwVdxUSoqlmwTYuLyLCfzqskKq11)  
+[![Launch Studio](https://img.shields.io/badge/🌐_Launch_Air--Sketch_Studio-00897B?style=for-the-badge&logo=vercel&logoColor=white)](https://flowx-3d.vercel.app)
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repository-flowx--3d-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahmoudmma667-gif/flowx-3d)
 
-<br/>
+<br/><br/>
 
-<p align="center">
-  <a href="https://github.com/mahmoudmma667-gif/mahmoudmma667-gif/raw/main/docs/videos/project_demo_04.mp4" target="_blank">
-    <img src="https://github.com/mahmoudmma667-gif/mahmoudmma667-gif/raw/main/docs/images/video_player_04.svg" width="95%" alt="Project Video 04" />
-  </a>
-</p>
+### 🔬 4. Open Science R&D Archive & Unpublished Research Vault
+[![Open Science R&D Archive](docs/images/video_card_04_rd_vault.png)](https://drive.google.com/drive/folders/1kiHqqwVdxUSoqlmwTYuLyLCfzqskKq11)  
+[![Explore R&D Vault on Google Drive](https://img.shields.io/badge/📂_Explore_All_Projects_on_Google_Drive-FF7043?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1kiHqqwVdxUSoqlmwTYuLyLCfzqskKq11)
 
 </div>
 
