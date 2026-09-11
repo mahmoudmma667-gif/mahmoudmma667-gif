@@ -209,8 +209,9 @@ My work centers on designing real-time perceptual interfaces, multimodal assisti
 <!-- AUTO_REPOSITORIES_LIST:START -->
 | Project | Description | Tech Stack | Stars | Last Activity |
 |:---|:---|:---:|:---:|:---:|
-| [**Air-Hockey-Vision**](https://github.com/mahmoudmma667-gif/Air-Hockey-Vision) | Research & engineering codebase | `Python` | ★ 0 | `2026-09-05` |
-| [**flowx-3d**](https://github.com/mahmoudmma667-gif/flowx-3d) | Flowx 3D Next.js application | `TypeScript` | ★ 1 | `2026-09-05` |
+| [**AeroFret-Kinetic-AR**](https://github.com/mahmoudmma667-gif/AeroFret-Kinetic-AR) | 🎸 AR Guitar AeroFret: Kinetic - Touchless Spatial Air Guitar Simulator & Augmented Reality Rhythm Game (Sub-8ms Karplus-Strong DSP, MediaPipe Hands & 60 FPS Computer Vision) | `Python` | ★ 0 | `2026-09-12` |
+| [**Air-Hockey-Vision**](https://github.com/mahmoudmma667-gif/Air-Hockey-Vision) | 🏓 Research-Grade Markerless Hand-Tracking Air Hockey Simulator for Real-Time HCI (Sub-30ms Latency, One Euro Filter & Procedural Acoustics) | `Python` | ★ 0 | `2026-09-12` |
+| [**flowx-3d**](https://github.com/mahmoudmma667-gif/flowx-3d) | 🌐 Flowx 3D (v3.3) - Next-Generation Neural Spatial 3D CAD & Air-Sketching Engine (Next.js 16, Three.js, MediaPipe Hands) | `TypeScript` | ★ 1 | `2026-09-12` |
 <!-- AUTO_REPOSITORIES_LIST:END -->
 
 ---
@@ -257,6 +258,9 @@ My work centers on designing real-time perceptual interfaces, multimodal assisti
 
 <div align="center">
 
+<a href="https://github.com/mahmoudmma667-gif/AeroFret-Kinetic-AR">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mahmoudmma667-gif&repo=AeroFret-Kinetic-AR&theme=slate&hide_border=true&bg_color=0b132b&title_color=38bdf8&icon_color=0284c7&text_color=94a3b8" width="48%" alt="AR Guitar AeroFret Kinetic Repository" />
+</a>
 <a href="https://github.com/mahmoudmma667-gif/flowx-3d">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mahmoudmma667-gif&repo=flowx-3d&theme=slate&hide_border=true&bg_color=0b132b&title_color=38bdf8&icon_color=0284c7&text_color=94a3b8" width="48%" alt="FlowX 3D Repository" />
 </a>
