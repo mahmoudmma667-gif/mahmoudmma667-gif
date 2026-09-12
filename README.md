@@ -209,9 +209,9 @@ My work centers on designing real-time perceptual interfaces, multimodal assisti
 <!-- AUTO_REPOSITORIES_LIST:START -->
 | Project | Description | Tech Stack | Stars | Last Activity |
 |:---|:---|:---:|:---:|:---:|
-| [**AeroFret-Kinetic-AR**](https://github.com/mahmoudmma667-gif/AeroFret-Kinetic-AR) | 🎸 AR Guitar AeroFret: Kinetic - Touchless Spatial Air Guitar Simulator & Augmented Reality Rhythm Game (Sub-8ms Karplus-Strong DSP, MediaPipe Hands & 60 FPS Computer Vision) | `Python` | ★ 0 | `2026-09-12` |
-| [**Air-Hockey-Vision**](https://github.com/mahmoudmma667-gif/Air-Hockey-Vision) | 🏓 Research-Grade Markerless Hand-Tracking Air Hockey Simulator for Real-Time HCI (Sub-30ms Latency, One Euro Filter & Procedural Acoustics) | `Python` | ★ 0 | `2026-09-12` |
-| [**flowx-3d**](https://github.com/mahmoudmma667-gif/flowx-3d) | 🌐 Flowx 3D (v3.3) - Next-Generation Neural Spatial 3D CAD & Air-Sketching Engine (Next.js 16, Three.js, MediaPipe Hands) | `TypeScript` | ★ 1 | `2026-09-12` |
+| [**AeroFret-Kinetic-AR**](https://github.com/mahmoudmma667-gif/AeroFret-Kinetic-AR) | 🎸 AR Guitar AeroFret: Kinetic - Touchless Spatial Air Guitar Simulator & Augmented Reality Rhythm Game (Sub-8ms Karplus-Strong DSP, MediaPipe Hands & 60 FPS Computer Vision) - Conceived & Developed by Mahmoud Labib | `Python` | ★ 0 | `2026-09-11` |
+| [**flowx-3d**](https://github.com/mahmoudmma667-gif/flowx-3d) | 🌐 Flowx 3D (v3.3) - Next-Generation Neural Spatial 3D CAD & Air-Sketching Engine - Pure Computer Vision, In-Browser WebGL/Three.js, MediaPipe Hands & 3D Print Exporter - By Mahmoud Labib | `TypeScript` | ★ 1 | `2026-09-11` |
+| [**Air-Hockey-Vision**](https://github.com/mahmoudmma667-gif/Air-Hockey-Vision) | 🏓 Air Hockey Vision - Research-Grade Markerless Hand-Tracking Air Hockey Simulator for Real-Time HCI - Sub-30ms Latency, 60 FPS, One Euro Filter & Procedural Acoustics - By Mahmoud Labib | `Python` | ★ 0 | `2026-09-11` |
 <!-- AUTO_REPOSITORIES_LIST:END -->
 
 ---
